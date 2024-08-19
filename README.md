@@ -98,15 +98,18 @@ ai_brain.predict(X_n1_1 )
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/user-attachments/assets/9fc7f3ce-ec80-4e96-b5f5-97f5f616a0b9)
+
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![image](https://github.com/user-attachments/assets/ea9d1ac7-7bfb-4bb4-bbfd-0c04a814a1a8)
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![image](https://github.com/user-attachments/assets/c5497ca1-6a8a-4de6-878d-20f44407f275)
+
 
 ## RESULT
 
